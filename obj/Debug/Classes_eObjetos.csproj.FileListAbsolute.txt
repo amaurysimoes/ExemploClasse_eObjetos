@@ -1,0 +1,10 @@
+C:\Temp2\Classes_eObjetos\bin\Debug\Classes_eObjetos.exe.config
+C:\Temp2\Classes_eObjetos\bin\Debug\Classes_eObjetos.exe
+C:\Temp2\Classes_eObjetos\bin\Debug\Classes_eObjetos.pdb
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.csprojAssemblyReference.cache
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.Form1.resources
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.Properties.Resources.resources
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.csproj.GenerateResource.cache
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.csproj.CoreCompileInputs.cache
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.exe
+C:\Temp2\Classes_eObjetos\obj\Debug\Classes_eObjetos.pdb
